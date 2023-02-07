@@ -3,5 +3,5 @@ public class Coche {
     private String color;
     private int ruedas;
     private boolean hibrido;
-
+    class
 }
